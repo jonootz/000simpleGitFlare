@@ -7,7 +7,7 @@
     Name="Advanced"
     BackgroundColor="#5d4343" />
   <ConditionTag
-    BackgroundColor="#98fb98"
+    BackgroundColor="#326e32"
     Name="Beginner"
     Comment=""
     Color="Normal"
