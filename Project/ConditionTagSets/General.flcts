@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultConditionTagSet
   Comment="My set of condition tags"
   conditions="">
   <ConditionTag
     Comment=""
     Name="Advanced"
-    BackgroundColor="Red" />
+    BackgroundColor="#5d4343" />
   <ConditionTag
     BackgroundColor="#98fb98"
     Name="Beginner"
