@@ -7,7 +7,7 @@
       Icon="System.Drawing.Bitmap"
       Name="Website Output Advanced Users"
       Type="HTML5"
-      Build="true"
+      Build="false"
       Publish="true"
       LastBuilt=""
       LastPublished="" />
