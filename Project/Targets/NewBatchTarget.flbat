@@ -1,6 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultBatchTarget Version="1" 
-	Comment="New Batch Target">
-  <Targets>    
-  </Targets>  
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Website Output Advanced Users"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Website Output Beginners"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt=""
+      LastPublished="" />
+  </Targets>
 </CatapultBatchTarget>
